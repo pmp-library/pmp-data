@@ -5,3 +5,4 @@
 * `fandisk.off` The Fandisk model is courtesy of Hughes Hoppe, Microsoft Research
 * The Armadillo model is courtesy of The Stanford 3D Scanning Repository
 * `fandisk_quads.off` The quad mesh of the Fandisk is courtesy of David Bommes
+* `beetle.off` The Beetle model is courtesy of Ivan Sutherland ([history](http://www.cs.utah.edu/docs/misc/Uteapot03.pdf))
